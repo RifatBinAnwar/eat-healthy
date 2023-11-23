@@ -36,7 +36,11 @@ h1{
     background-repeat: no-repeat;
     background-size: cover;
 }
-
+.my-recipies{
+    border: 1px solid white;
+    box-shadow: 50px 10px 50px black;
+    border-radius: 25px;
+}
 .my-recipies p{
     text-align: center;
 }
@@ -57,4 +61,9 @@ footer{
     padding: 5px;
     text-align: center;
     color: white;
+}
+.card{
+    border: 1px solid aquamarine;
+    box-shadow: 50px 10px 50px black;
+    border-radius: 25px;
 }
