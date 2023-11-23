@@ -27,11 +27,16 @@ h1{
     font-weight: 700;
     color: white;
 }
-p{
-    margin-bottom: 30px;
-}
+
 .about-me{
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.my-recipies p{
+    text-align: center;
+}
+.my-recipies h1{
+    text-align: center;
 }
