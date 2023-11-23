@@ -18,6 +18,9 @@ h1{
 }
 .half-width img{
     width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 .link-button{
     text-decoration: none;
@@ -39,4 +42,19 @@ h1{
 }
 .my-recipies h1{
     text-align: center;
+}
+.middle-width{
+    border: 1px solid aquamarine;
+    width: 33.33%;
+    padding-left: 10px;
+    height: 25px;
+    border-radius: 5px;
+    box-shadow: 60px 10px 300px teal;
+    margin: 10px;
+}
+footer{
+    background-color: black;
+    padding: 5px;
+    text-align: center;
+    color: white;
 }
